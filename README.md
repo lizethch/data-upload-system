@@ -89,9 +89,11 @@ javascriptCopyPOST /api/login
 Ejecutar los tests:
 npm run test
 El proyecto incluye tests para:
+1-Autenticación
+2-Procesamiento de CSV
+3-Reglas de validación
+4-Funcionalidad de inicio de sesión
+5-Carga de archivo
 
-Autenticación
-Procesamiento de CSV
-Reglas de validación
-Funcionalidad de inicio de sesión
-Carga de archivo
+# Deploy del Proyecto
+https://data-upload-system-3t9f3975y-lizeths-projects-efc5b14e.vercel.app/
