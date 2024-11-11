@@ -15,8 +15,8 @@
     React 18.x
     React Router 6.x
     Tailwind CSS
-    Jest + React Testing Library
-    JSON Web Tokens (JWT)
+    vitest + React Testing Library
+    Javascript
 
 📋 Requisitos Previos
 
